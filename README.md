@@ -9,12 +9,12 @@ Looking forward to starting a professional career in programming.
 
 ## Languages and tools
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width = 40><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=40>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=40>
-<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width=40>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width=40>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=40>
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width =40><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width = 40><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width=40><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=40><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width=40><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width =40><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width = 40 alt="C#"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=40 alt="JavaScript">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=40 alt="Python">
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width=40 alt=".NET Core">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width=40 alt="Node.js">
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=40 alt="React">
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width =40 alt="PostgreSQL"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width = 40 alt="Flask"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width=40 alt="CSS3"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=40 alt="HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width=40 alt="Bootstrap"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width =40 alt="C++"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width=40 alt="TypeScript">
 
 ## Stats
 
