@@ -1,11 +1,12 @@
 <h2 align=center> Welcome! </h1>
 
 ## About me
-Looking forward to starting a professional career in programming.
-- Interested in both frontend and backend
-- Computer geek since Windows 98 <img src="https://github.com/precisepangolin/precisepangolin/assets/61357898/74e2721b-aed8-46d6-b8c1-97fb6a72a53a" width = 22 align = center>
-- Familiar with Ubuntu
-- Some experience in old game modificatons 👾
+Looking to develop a professional career in programming.
+- Enjoy working on both backend and frontend
+- Ubuntu and Windows 98+ afficionado <img src="https://github.com/precisepangolin/precisepangolin/assets/61357898/74e2721b-aed8-46d6-b8c1-97fb6a72a53a" width = 22 align = center>
+- Interested in visual arts
+- Cybersecurity enthusiast
+- Fan of playing old video games... and modifying them 👾
 
 ## Languages and tools
 
