@@ -6,7 +6,7 @@ Looking to develop a professional career in programming.
 - Ubuntu and Windows 98+ afficionado <img src="https://github.com/precisepangolin/precisepangolin/assets/61357898/74e2721b-aed8-46d6-b8c1-97fb6a72a53a" width = 22 align = center>
 - Interested in visual arts
 - Cybersecurity enthusiast
-- Fan of playing old video games... and modifying them 👾
+- Fan of playing old video games and modding 👾
 
 ## Languages and tools
 
